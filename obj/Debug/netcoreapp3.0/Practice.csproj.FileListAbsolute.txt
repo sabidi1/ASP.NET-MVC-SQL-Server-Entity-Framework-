@@ -1,0 +1,11 @@
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice.deps.json
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice.runtimeconfig.json
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice.runtimeconfig.dev.json
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice.dll
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/bin/Debug/netcoreapp3.0/Practice.pdb
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/obj/Debug/netcoreapp3.0/Practice.csprojAssemblyReference.cache
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/obj/Debug/netcoreapp3.0/Practice.AssemblyInfoInputs.cache
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/obj/Debug/netcoreapp3.0/Practice.AssemblyInfo.cs
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/obj/Debug/netcoreapp3.0/Practice.dll
+/Users/Zeeshan/Desktop/C#__Progamming/Learning C#/Practice/obj/Debug/netcoreapp3.0/Practice.pdb
